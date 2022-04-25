@@ -49,3 +49,7 @@ sort file | uniq
 ```
 sed -i "s/\(.*\)/\1,\1/g" file
 ```
+去除已学过的单词
+```
+cat a.txt b.txt b.txt |sort |uniq -u
+```
