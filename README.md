@@ -25,3 +25,20 @@ https://dictionary.cambridge.org/
 
 word finding tool: https://learnthesewordsfirst.com/WordFindingTool.html
 Oxford checker: https://www.oxfordlearnersdictionaries.com/text-checker/
+
+# Termux
+
+排序
+```
+sort file
+```
+去除重复行
+```
+uniq file
+# 或者组合上面
+sort file | uniq
+```
+转换csv
+```
+sed -i "s/\(.*\)/\1,\1/g" file
+```
