@@ -18,6 +18,8 @@ Macmillan: https://www.macmillandictionary.com/learn/clear-definitions/
 
 Oxford: https://www.oxfordlearnersdictionaries.com/wordlist/american_english/oxford3000/
 
+Britannica: https://www.britannica.com/dictionary/eb/3000-words
+
 Cambridge:
 
 Collins:
